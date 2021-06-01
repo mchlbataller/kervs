@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>Happy birthday kervin zoren bonaobra</title>
         <meta name="description" content="made by michael bataller" />
-        <meta property="og:title" content="Happy birthday kervin zoren bonaobra">
+        <meta property="og:title" content="Happy birthday kervin zoren bonaobra" />
         <meta property="og:description" content="made by michael bataller" />
         <link rel="icon" href="/favicon.ico" />
         <meta property="og:image" content="/kervin.jpg" />
