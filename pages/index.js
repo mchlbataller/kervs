@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <div className={styles.container}>
+    <div >
       <Head>
         <title>Happy birthday kervin zoren bonaobra</title>
         <meta name="description" content="made by michael bataller" />
